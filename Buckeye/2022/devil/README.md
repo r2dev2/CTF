@@ -122,6 +122,8 @@ Entering in `65.0` into the netcat doesn't give us the flag. I asked an event or
 
 We converted the answer to `104.61` km / h and the flag was captured!
 
+![flag](https://i.imgur.com/bYsRYIJ.png)
+
 ## Detours
 
 This was a massive rabbit hole and we took many detours, a few of which are below.
