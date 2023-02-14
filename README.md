@@ -10,3 +10,4 @@ I currently mainly know how to do Programming and Web CTF categories.
 |---------------|----------------------|-------|-------------
 | Deadface 2022 | Pi Beta Rho          | 269   | 700
 | Buckeye 2022  | Psi Beta Rho \| UCLA | 3     | 688
+| LaCTF 2023    | Bengang              | 96    | 962
